@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Preeminent-master.iml" filepath="$PROJECT_DIR$/.idea/Preeminent-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Python3.5.2_script/.idea/Python3.5.2_script.iml" filepath="$PROJECT_DIR$/../../Python3.5.2_script/.idea/Python3.5.2_script.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../fishPractice/.idea/fishPractice.iml" filepath="$PROJECT_DIR$/../../fishPractice/.idea/fishPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../public_Project/.idea/public_Project.iml" filepath="$PROJECT_DIR$/../../public_Project/.idea/public_Project.iml" />
+    </modules>
+  </component>
+</project>
